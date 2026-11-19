@@ -21,9 +21,9 @@ redirect_from:
 </svg>
 </div>
 
-Abdelkarim Laglil is a PhD student in Social Sciences at Universidad Carlos III de Madrid, Spain. His research focuses on migration, social mobilization, political violence, and transitional justice, with a focus on Spain and Germany.
+I am a PhD student in Social Sciences at Universidad Carlos III de Madrid, Spain. My research focuses on migration, social mobilization, political violence, and transitional justice, with a focus on Spain and Germany.
 
-He is currently a visiting researcher at DIW Berlin (September–December 2026) through the SOEP Visiting Young Scholar Program (VYSP), and a member of the organizing board of [PAPERSS](https://sites.google.com/view/paperss-seminarseries/home), the UC3M seminar series for pre- and post-doctoral empirical research in the social sciences (2026/2027). In 2025/2026 he was a teaching assistant in Topics in Comparative Politics, in UC3M's double degree in Law and Political Science, where he taught seminars and two guest lectures.
+I am currently a visiting researcher at DIW Berlin (September–December 2026) through the SOEP Visiting Young Scholar Program (VYSP), and a member of the organizing board of [PAPERSS](https://sites.google.com/view/paperss-seminarseries/home), the UC3M seminar series for pre- and post-doctoral empirical research in the social sciences (2026/2027). In 2025/2026 I was a teaching assistant in Topics in Comparative Politics, in UC3M's double degree in Law and Political Science, where I taught seminars and two guest lectures.
 
 My research
 ======
