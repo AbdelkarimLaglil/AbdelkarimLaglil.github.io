@@ -197,3 +197,22 @@ html[data-theme="dark"] .lh-node[aria-pressed="true"] { background: rgba(142, 16
 .lh-people a:hover, .lh-people a:focus-visible { border-color: var(--lh-route); background: rgba(37, 71, 208, 0.07); transform: translateY(-1px); }
 html[data-theme="dark"] .lh-people a:hover, html[data-theme="dark"] .lh-people a:focus-visible { background: rgba(142, 162, 255, 0.12); }
 @media (prefers-reduced-motion: reduce) { .lh-people a { transition: none; transform: none !important; } }
+
+/* ---- Talks map ---- */
+.lh-talkmap { max-width: 40rem; margin: 0.5rem 0 1rem; }
+.lh-talkmap svg { width: 100%; height: auto; display: block; overflow: visible; }
+.lh-talkmap .land { fill: var(--lh-rule); fill-opacity: 0.6; stroke: none; }
+.lh-talkmap .city { cursor: pointer; outline: none; }
+.lh-talkmap .dot { fill: var(--lh-route); stroke: var(--lh-paper); stroke-width: 2; transition: fill 0.15s; }
+.lh-talkmap .halo { fill: var(--lh-route); fill-opacity: 0; transition: fill-opacity 0.15s; }
+.lh-talkmap .city:hover .halo, .lh-talkmap .city:focus-visible .halo, .lh-talkmap .city.on .halo { fill-opacity: 0.16; }
+.lh-talkmap .city.on .dot { fill: var(--lh-now); }
+.lh-talkmap .num { font-family: var(--lh-display); font-weight: 700; font-size: 13px; fill: #fff; pointer-events: none; }
+.lh-talkmap .cname { font-family: var(--lh-display); font-weight: 600; font-size: 15px; fill: var(--lh-ink); pointer-events: none; }
+.lh-tm-hint { margin: 0.4rem 0 0.8rem; color: var(--lh-muted); font-size: 0.93rem; }
+.lh-tm-list { padding-left: 1rem; border-left: 3px solid var(--lh-now); margin: 0.6rem 0; }
+.lh-tm-list strong { font-family: var(--lh-display); }
+.lh-tm-list ul { margin: 0.2rem 0 0 1.1rem; padding: 0; }
+.lh-tm-list li span { color: var(--lh-muted); }
+.lh-talkmap.js .lh-tm-list { display: none; }
+.lh-talkmap.js .lh-tm-list.on { display: block; }
