@@ -107,3 +107,30 @@ html:not([data-theme="dark"]) .archive { background-color: var(--lh-paper); }
 .lh-quiet li { margin: 0.5rem 0; }
 
 :focus-visible { outline: 3px solid var(--lh-route); outline-offset: 2px; }
+
+/* ---- Research map ---- */
+.lh-map { max-width: 46rem; margin: 1.2rem 0 2rem; color: var(--lh-route); }
+.lh-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.6rem; }
+.lh-node {
+  display: block; width: 100%; text-align: left; cursor: pointer;
+  background: transparent; color: var(--lh-ink);
+  border: 1.5px solid var(--lh-rule); border-radius: 3px; padding: 0.7rem 0.8rem;
+  font-family: var(--lh-display); line-height: 1.3;
+}
+.lh-node .t { display: block; font-weight: 700; font-size: 1rem; }
+.lh-node .s { display: block; font-weight: 500; font-size: 0.85rem; color: var(--lh-muted); margin-top: 0.15rem; }
+.lh-node:hover { border-color: var(--lh-route); }
+.lh-node[aria-pressed="true"] { border-color: var(--lh-route); box-shadow: inset 4px 0 0 var(--lh-route); background: rgba(37, 71, 208, 0.06); }
+html[data-theme="dark"] .lh-node[aria-pressed="true"] { background: rgba(142, 162, 255, 0.1); }
+.lh-wide { margin-top: 0.6rem; }
+.lh-back { display: block; width: 100%; height: auto; margin: 0.2rem 0 0; color: var(--lh-route); }
+.lh-back text { font-family: var(--lh-display); font-size: 12.5px; fill: var(--lh-muted); }
+.lh-panel { margin-top: 1rem; padding: 0.2rem 0 0 1rem; border-left: 3px solid var(--lh-route); color: var(--lh-ink); }
+.lh-panel p { margin: 0 0 0.5rem; }
+.lh-panel ul { margin: 0 0 0.3rem 1.1rem; }
+.lh-map.js .lh-panel { display: none; }
+.lh-map.js .lh-panel.on { display: block; }
+@media (max-width: 40em) {
+  .lh-row { grid-template-columns: 1fr; }
+  .lh-back { display: none; }
+}
