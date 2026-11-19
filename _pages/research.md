@@ -8,6 +8,15 @@ author_profile: true
 
 One question runs through my work: how do people respond when politics turns hostile or violent against them? I follow it mostly through migrants, in the places where they live and in the places they come from. I pay particular attention to time: the memory of violence that has already happened and the anticipation of violence that has not yet come.
 
+<div class="lh-time" role="group" aria-label="Diagram: the memory of violence and the anticipation of violence both shape how migrants respond">
+<div class="col"><h3>Memory</h3><p class="sub">Violence that has happened or is happening</p><ul><li>Hate crimes</li><li>Anti-immigrant rallies</li></ul></div>
+<span class="ar a1" aria-hidden="true"></span>
+<div class="col mid"><h3>Response</h3><p class="sub">What migrants do</p><ul><li>Leave</li><li>Speak up</li><li>Stay</li><li>Send money home</li></ul></div>
+<span class="ar a2" aria-hidden="true"></span>
+<div class="col"><h3>Anticipation</h3><p class="sub">Violence that has not yet come</p><ul><li>A far-right party entering government</li></ul></div>
+</div>
+<p class="lh-time-cap">What migrants have lived and what they imagine may come both shape what they do, and not always in the same direction.</p>
+
 <section class="lh-sec">
 <h2>Migrant agency under hostility</h2>
 <p class="q">How do migrants respond to hostility where they settle: do they leave, speak up, stay, or send money home?</p>
