@@ -6,12 +6,12 @@ excerpt: "Research on migrant agency under hostility, violence across borders, a
 author_profile: true
 ---
 
-One question runs through my work: how do people respond when politics turns hostile or violent against them? I follow it mostly through migrants, in the places where they live and in the places they come from.
+One question runs through my work: how do people respond when politics turns hostile or violent against them? I follow it mostly through migrants, in the places where they live and in the places they come from. I pay particular attention to time: the memory of violence that has already happened and the anticipation of violence that has not yet come.
 
 <section class="lh-sec">
 <h2>Migrant agency under hostility</h2>
 <p class="q">How do migrants respond to hostility where they settle: do they leave, speak up, stay, or send money home?</p>
-<p>I treat hate crimes, anti-immigrant rallies and far-right exclusionary politics as political violence. I study Germany, mainly but not exclusively, with the SOEP panel from 1984 to 2023, and Spain, with data on intermunicipal mobility around relevant episodes of hostility.</p>
+<p>I treat hate crimes, anti-immigrant rallies and far-right exclusionary politics as political violence. I study Germany, mainly but not exclusively, with the SOEP panel from 1984 to 2023, and Spain, with data on intermunicipal mobility around relevant episodes of hostility. I also ask in what order migrants respond, and how imagined futures mediate between what they have experienced and what they do.</p>
 <p>This is the subject of my dissertation, <em>Navigating Hostility: Migrant Agency in Response to Far-Right Exclusionary Politics</em>, supervised by <a href="https://sites.google.com/view/sebastianlavezzolo">Sebastián Lavezzolo</a> (UC3M) and <a href="https://web.comillas.edu/profesor/cmeseguer">Covadonga Meseguer</a> (ICADE).</p>
 <ul class="papers">
 <li><a href="{{ site.baseurl }}/work-in-progress/">Exit, Voice and the Limits of Both</a></li>
