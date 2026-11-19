@@ -136,3 +136,18 @@ html[data-theme="dark"] .lh-node[aria-pressed="true"] { background: rgba(142, 16
 }
 
 .lh-entry.minor { border-left-color: var(--lh-rule); }
+
+/* ---- Page frame: balanced margins and a clear gap after the sidebar ---- */
+@media screen and (min-width: 925px) {
+  #main,
+  .masthead__inner-wrap,
+  .page__footer footer { max-width: 1090px; }
+  .page,
+  .archive {
+    float: right;
+    width: min(38rem, 83.3333%);
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
