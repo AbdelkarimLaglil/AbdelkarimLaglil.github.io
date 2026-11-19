@@ -26,4 +26,4 @@ I am currently a visiting researcher at DIW Berlin (September–December 2026) t
 </svg>
 </div>
 
-My [research]({{ site.baseurl }}/research/) asks how people respond to political violence and hostility, and the papers are in [Work in progress]({{ site.baseurl }}/work-in-progress/). I list where I have presented them in [Talks]({{ site.baseurl }}/talks/) and what I teach in [Teaching]({{ site.baseurl }}/teaching/).
+My [research]({{ site.baseurl }}/research/) looks at how migrants and communities respond to political violence and hostility, in Germany, in Spain, and across borders. You can find the papers I am working on in [Work in progress]({{ site.baseurl }}/work-in-progress/), where I have presented them in [Talks]({{ site.baseurl }}/talks/), and how I teach in [Teaching]({{ site.baseurl }}/teaching/).
