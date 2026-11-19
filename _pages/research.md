@@ -8,7 +8,7 @@ author_profile: true
 
 My work asks how people respond to political violence and hostility. Most of it follows migrants: what they do when politics turns against them where they live, and how violence in the places they come from reaches them across borders.
 
-<div class="lh-entry"><span class="title">Migrant agency under hostility</span><span class="sub">How migrants respond to hostility where they settle (hate crimes, anti-immigrant rallies, far-right exclusionary politics), which I treat as political violence. They can leave, speak up, stay, or send money home. I study Germany with the SOEP panel, and it is the subject of my thesis.</span></div>
+<div class="lh-entry"><span class="title">Migrant agency under hostility</span><span class="sub">How migrants respond to hostility where they settle (hate crimes, anti-immigrant rallies, far-right exclusionary politics), which I treat as political violence. They can leave, speak up, stay, or send money home. I study Germany mainly, but not exclusively, with the SOEP panel, and it is the subject of my thesis. I also study migrant agency in Spain, using data on intermunicipal mobility around relevant episodes of hostility.</span></div>
 <div class="lh-entry chapter"><span class="title">Violence across borders</span><span class="sub">How violence in migrants' countries of origin connects to what they do abroad: electoral violence, remittances, and how authoritarian states use migrants' money and ties to build transnational power.</span></div>
 <div class="lh-entry minor"><span class="title">Legacies of violence in Spain</span><span class="sub">In collaborative work, I study mass grave exhumations and what happens when the state withdraws from transitional justice.</span></div>
 
