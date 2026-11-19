@@ -6,16 +6,39 @@ excerpt: "Research on migrant agency under hostility, violence across borders, a
 author_profile: true
 ---
 
-One question runs through my work: how do people respond when politics turns hostile or violent against them? I follow it mostly through migrants, in the places where they live and in the places they come from. I pay particular attention to time: the memory of violence that has already happened and the anticipation of violence that has not yet come.
+One question runs through my work: how do people respond when politics turns hostile against them and, in the worst cases, violent? I follow it mostly through migrants, in the places where they live and in the places they come from. I pay particular attention to time: the memory of hostility that has already happened and the anticipation of hostility that has not yet come.
 
-<div class="lh-time" role="group" aria-label="Diagram: the memory of violence and the anticipation of violence both shape how migrants respond">
-<div class="col"><h3>Memory</h3><p class="sub">Violence that has happened or is happening</p><ul><li>Hate crimes</li><li>Anti-immigrant rallies</li></ul></div>
-<span class="ar a1" aria-hidden="true"></span>
-<div class="col mid"><h3>Response</h3><p class="sub">What migrants do</p><ul><li>Leave</li><li>Speak up</li><li>Stay</li><li>Send money home</li></ul></div>
-<span class="ar a2" aria-hidden="true"></span>
-<div class="col"><h3>Anticipation</h3><p class="sub">Violence that has not yet come</p><ul><li>A far-right party entering government</li></ul></div>
-</div>
-<p class="lh-time-cap">What migrants have lived and what they imagine may come both shape what they do, and not always in the same direction.</p>
+<figure class="lh-fig">
+<svg viewBox="0 0 540 262" role="img" aria-label="Figure: a timeline from past to future. The memory of hostility that has happened, such as anti-immigrant rallies and hate crimes, and the anticipation of hostility that has not yet come, such as a far-right party entering government, both lead to what migrants do now: leave, speak up, stay, or send money home.">
+<defs><marker id="fig-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="currentColor"/></marker></defs>
+<path class="arc" d="M100 34 Q180 -8 256 31" marker-end="url(#fig-arrow)"/>
+<path class="arc" d="M440 34 Q360 -8 284 31" marker-end="url(#fig-arrow)"/>
+<circle class="d-past" cx="90" cy="40" r="6"/>
+<circle class="d-now" cx="270" cy="40" r="8"/>
+<circle class="d-future" cx="450" cy="40" r="6"/>
+<text class="t-time" x="90" y="68" text-anchor="middle">past</text>
+<text class="t-time" x="270" y="68" text-anchor="middle">now</text>
+<text class="t-time" x="450" y="68" text-anchor="middle">future</text>
+<text class="t-head" x="90" y="104" text-anchor="middle">Memory</text>
+<text class="t-sub" x="90" y="124" text-anchor="middle">Hostility that has</text>
+<text class="t-sub" x="90" y="141" text-anchor="middle">happened or is happening</text>
+<text class="t-ex" x="90" y="172" text-anchor="middle">Anti-immigrant</text>
+<text class="t-ex" x="90" y="192" text-anchor="middle">rallies</text>
+<text class="t-ex" x="90" y="218" text-anchor="middle">Hate crimes</text>
+<text class="t-head" x="270" y="104" text-anchor="middle">Response</text>
+<text class="t-sub" x="270" y="124" text-anchor="middle">What migrants do</text>
+<text class="t-ex" x="270" y="172" text-anchor="middle">Leave</text>
+<text class="t-ex" x="270" y="192" text-anchor="middle">Speak up</text>
+<text class="t-ex" x="270" y="212" text-anchor="middle">Stay</text>
+<text class="t-ex" x="270" y="232" text-anchor="middle">Send money home</text>
+<text class="t-head" x="450" y="104" text-anchor="middle">Anticipation</text>
+<text class="t-sub" x="450" y="124" text-anchor="middle">Hostility that has</text>
+<text class="t-sub" x="450" y="141" text-anchor="middle">not yet come</text>
+<text class="t-ex" x="450" y="172" text-anchor="middle">A far-right party</text>
+<text class="t-ex" x="450" y="192" text-anchor="middle">in government</text>
+</svg>
+<figcaption>Hostility ranges from exclusionary rallies to hate crimes and, at its worst, violence. What migrants have lived and what they imagine may come both shape what they do, and not always in the same direction.</figcaption>
+</figure>
 
 <section class="lh-sec">
 <h2>Migrant agency under hostility</h2>
