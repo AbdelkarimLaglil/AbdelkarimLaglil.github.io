@@ -22,15 +22,15 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name     : "Abdelkarim Laglil Herradi"
+  avatar   : "profile.png"
+  bio      : "PhD student in Social Sciences at UC3M"
+  location : "Madrid, Spain"
+  employer : "Universidad Carlos III de Madrid"
+  email    : "[your.email@uc3m.es]"
+  googlescholar : "[Google Scholar URL]"
+  orcid    : "[ORCID URL]"
+  github   : "[github-username]"
 
   # Academic websites
   academia         : # URL
