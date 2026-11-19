@@ -39,4 +39,4 @@ I am currently a visiting researcher at DIW Berlin (September–December 2026) t
 </ul>
 </div>
 
-Since 2025/2026 I have been a teaching assistant in Topics in Comparative Politics, in UC3M's double degree in Law and Political Science, where I teach seminars.
+Since 2025/2026 I have been a teaching assistant in Topics in Comparative Politics, in UC3M's double degree in Law and Political Science.
