@@ -6,10 +6,10 @@ excerpt: "Research on migrant agency under hostility, violence across borders, a
 author_profile: true
 ---
 
-One question runs through my work: how do people respond when politics turns hostile against them and, in the worst cases, violent? I follow it mostly through migrants, in the places where they live and in the places they come from. I pay particular attention to time: the memory of hostility that has already happened and the anticipation of hostility that has not yet come.
+One question runs through my work: how do people respond when politics turns hostile against them and, in the worst cases, violent? I follow it mostly through migrants, in the places where they live and in the places they come from. I pay particular attention to time: the memory of hostility that has already happened and the anticipation of hostility that is plausible but still hypothetical.
 
 <figure class="lh-fig">
-<svg viewBox="0 0 540 262" role="img" aria-label="Figure: a timeline from past to future. The memory of hostility that has happened, such as anti-immigrant rallies and hate crimes, and the anticipation of hostility that has not yet come, such as a far-right party entering government, both lead to migrant agency now: leave, speak up, stay, or send money home.">
+<svg viewBox="0 0 540 262" role="img" aria-label="Figure: a timeline from past to future. The memory of hostility that has happened, such as anti-immigrant rallies and hate crimes, and the anticipation of plausible but hypothetical hostility, such as a far-right party entering government, both lead to migrant agency now: leave, speak up, stay, or send money home.">
 <defs><marker id="fig-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="currentColor"/></marker></defs>
 <path class="arc" d="M100 34 Q180 -8 256 31" marker-end="url(#fig-arrow)"/>
 <path class="arc" d="M440 34 Q360 -8 284 31" marker-end="url(#fig-arrow)"/>
@@ -32,8 +32,8 @@ One question runs through my work: how do people respond when politics turns hos
 <text class="t-ex" x="270" y="212" text-anchor="middle">Stay</text>
 <text class="t-ex" x="270" y="232" text-anchor="middle">Send money home</text>
 <text class="t-head" x="450" y="104" text-anchor="middle">Anticipation</text>
-<text class="t-sub" x="450" y="124" text-anchor="middle">Hostility that has</text>
-<text class="t-sub" x="450" y="141" text-anchor="middle">not yet come</text>
+<text class="t-sub" x="450" y="124" text-anchor="middle">Plausible but still</text>
+<text class="t-sub" x="450" y="141" text-anchor="middle">hypothetical hostility</text>
 <text class="t-ex" x="450" y="172" text-anchor="middle">A far-right party</text>
 <text class="t-ex" x="450" y="192" text-anchor="middle">in government</text>
 </svg>
