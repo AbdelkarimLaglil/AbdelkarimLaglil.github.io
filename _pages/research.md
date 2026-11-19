@@ -53,7 +53,7 @@ Select a stage to jump to the project behind it.
 <p class="q">What happens when the state withdraws from transitional justice, and what does grassroots human rights work change?</p>
 <dl>
 <dt>Focus</dt><dd>Mass grave exhumations in Spain</dd>
-<dt>With</dt><dd>Paloma Aguilar, Francisco Villamil and Fernando de la Cuesta</dd>
+<dt>With</dt><dd>Francisco Villamil, Paloma Aguilar and Fernando de la Cuesta</dd>
 </dl>
 <ul class="papers">
 <li><a href="{{ site.baseurl }}/work-in-progress/">Broken promises: State withdrawal and mass grave exhumations in Spain</a></li>
