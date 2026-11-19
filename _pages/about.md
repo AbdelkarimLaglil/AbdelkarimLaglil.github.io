@@ -34,7 +34,7 @@ I am currently a visiting researcher at DIW Berlin (September–December 2026) t
 <p>I am also on the organizing board of <a href="https://sites.google.com/view/paperss-seminarseries/home">PAPERSS</a>, the UC3M seminar series for pre- and post-doctoral empirical research in the social sciences (2026/2027). I organize it together with fellow PhD students in Social Sciences:</p>
 <ul class="lh-people">
 <li><a href="https://uc3m.es/departamento-ciencias-sociales/media/departamento-ciencias-sociales/doc/archivo/doc_ruiz-inigo/cv---english.pdf">Íñigo Ruiz Hilera</a></li>
-<li><a href="https://researchportal.uc3m.es/display/inv51131">Tommaso Camilot</a></li>
+<li><a href="https://www.uc3m.es/departamento-ciencias-sociales/media/departamento-ciencias-sociales/doc/archivo/doc_camilot-tommaso/t__camilot___cv-4.pdf">Tommaso Camilot</a></li>
 <li><a href="https://www.uc3m.es/departamento-ciencias-sociales/media/departamento-ciencias-sociales/doc/archivo/doc_endtz-roeland/cv-roeland-endtz-dec-2025-1.pdf">Roeland Endtz</a></li>
 </ul>
 </div>
