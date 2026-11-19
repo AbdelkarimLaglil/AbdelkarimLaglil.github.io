@@ -12,11 +12,11 @@ Conference presentations
 * 16th SOEP Users Conference, Berlin, Germany
 * IMISCOE Annual Conference, Girona, Spain
 * ECPR Joint Sessions of Workshops, Innsbruck, Austria
-* EPSS 2026, Belfast, UK
-* MESS 2026, Madrid, Spain
+* [European Political Science Society (EPSS)](https://epssnet.org/) conference 2026, Belfast, UK. 18–20 June 2026
+* [Madrid Empirical Social Sciences (MESS)](https://madridempiricalsocialsciences.github.io/aboutus/) workshop 2026, Madrid, Spain
 
 **2025**
-* Madrid Empirical Social Sciences Network (MESS), Madrid, Spain. October 2025
+* [Madrid Empirical Social Sciences (MESS)](https://madridempiricalsocialsciences.github.io/aboutus/) workshop 2025, Madrid, Spain. October 2025
 * 15th EPSA Conference, Madrid, Spain. June 2025: "Examining the Paradox of Migrant Remittances: Individual Benefits vs. Community Risks in Election-Related Violence"
 
 Invited seminars

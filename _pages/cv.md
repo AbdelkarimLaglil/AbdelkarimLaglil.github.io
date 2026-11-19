@@ -31,6 +31,16 @@ Research experience
 * Predoc Research Assistant, IC3JM (Apr 2024 – Jul 2025): project "Dynamics and consequences of Transitional Justice at the local level" (PI: Francisco Villamil Fernández)
 * Predoc Research Assistant, Figuerola Institute, UC3M (Jan – Apr 2024): project "Integration histories of peripheral Latin capitalisms" (PI: Antonio Tena Junguito)
 
+Publications and work in progress
+======
+* "Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility" (single author)
+* "Money, Staying, and Perceived Hostility: Distinct Futurities That Do Not Align" (single author)
+* "Remittances and Electoral Violence in Africa: Household Exposure, Fear, and Electoral Context" (single author)
+* Laglil, A. and Lavezzolo, S. "The Political Valence of Financial Remittances: Authoritarian States and the Construction of Transnational Power." Chapter, forthcoming in the *Oxford Handbook of Remittances*
+* Laglil, A., with Aguilar, P. and Villamil, F. "Broken promises: State withdrawal and mass grave exhumations in Spain"
+
+See [Publications]({{ site.baseurl }}/publications/) for details.
+
 Teaching
 ======
 * Teaching Assistant, Comparative Politics (*Temas de Política Comparada*), Double Degree in Law and Political Science, UC3M, Sep 2025 – Jan 2026: seminar sessions and two guest lectures
