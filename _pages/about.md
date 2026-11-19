@@ -25,10 +25,14 @@ Abdelkarim Laglil is a PhD student in Social Sciences at Universidad Carlos III 
 
 He is currently a visiting researcher at DIW Berlin (September–December 2026) through the SOEP Visiting Young Scholar Program (VYSP), and a member of the organizing board of [PAPERSS](https://sites.google.com/view/paperss-seminarseries/home), the UC3M seminar series for pre- and post-doctoral empirical research in the social sciences (2026/2027). In 2025/2026 he was a teaching assistant in Topics in Comparative Politics, in UC3M's double degree in Law and Political Science, where he taught seminars and two guest lectures.
 
-How the pieces fit
+My research
 ======
 
-I am especially interested in migrant agency, and in the causes and effects of political violence and conflict. I treat hostility toward migrants (hate crimes, anti-immigrant rallies, far-right exclusionary politics) as a form of political violence. I study it alongside electoral violence in migrants' countries of origin, because the same people can live with both. Select a part to see how it connects to my work.
+<div class="lh-entry"><span class="title">1. Migrant agency under hostility</span><span class="sub">How migrants respond when politics turns against them: leaving, speaking up, staying, or sending money home. I study Germany with the SOEP panel, and it is the subject of my thesis.</span></div>
+<div class="lh-entry"><span class="title">2. The causes and consequences of political violence</span><span class="sub">Why violence happens, what it leaves behind, and how states and societies respond: electoral violence, and mass graves and transitional justice in Spain.</span></div>
+<div class="lh-entry chapter"><span class="title">Where they meet</span><span class="sub">Hostility toward migrants (hate crimes, anti-immigrant rallies, far-right exclusionary politics) is itself political violence. And remittances tie migrants to electoral violence in their countries of origin. I work on both sides of that link.</span></div>
+
+Select a part below to see how my work connects.
 
 <div class="lh-map">
 <div class="lh-row">
