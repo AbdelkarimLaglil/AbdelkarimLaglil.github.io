@@ -9,7 +9,7 @@ author_profile: true
 One question runs through my work: how do people respond when politics turns hostile against them and, in the worst cases, violent? I follow it mostly through migrants, in the places where they live and in the places they come from. I pay particular attention to time: the memory of hostility that has already happened and the anticipation of hostility that has not yet come.
 
 <figure class="lh-fig">
-<svg viewBox="0 0 540 262" role="img" aria-label="Figure: a timeline from past to future. The memory of hostility that has happened, such as anti-immigrant rallies and hate crimes, and the anticipation of hostility that has not yet come, such as a far-right party entering government, both lead to what migrants do now: leave, speak up, stay, or send money home.">
+<svg viewBox="0 0 540 262" role="img" aria-label="Figure: a timeline from past to future. The memory of hostility that has happened, such as anti-immigrant rallies and hate crimes, and the anticipation of hostility that has not yet come, such as a far-right party entering government, both lead to migrant agency now: leave, speak up, stay, or send money home.">
 <defs><marker id="fig-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="currentColor"/></marker></defs>
 <path class="arc" d="M100 34 Q180 -8 256 31" marker-end="url(#fig-arrow)"/>
 <path class="arc" d="M440 34 Q360 -8 284 31" marker-end="url(#fig-arrow)"/>
@@ -26,7 +26,7 @@ One question runs through my work: how do people respond when politics turns hos
 <text class="t-ex" x="90" y="192" text-anchor="middle">rallies</text>
 <text class="t-ex" x="90" y="218" text-anchor="middle">Hate crimes</text>
 <text class="t-head" x="270" y="104" text-anchor="middle">Response</text>
-<text class="t-sub" x="270" y="124" text-anchor="middle">What migrants do</text>
+<text class="t-sub" x="270" y="124" text-anchor="middle">Agency: what migrants do</text>
 <text class="t-ex" x="270" y="172" text-anchor="middle">Leave</text>
 <text class="t-ex" x="270" y="192" text-anchor="middle">Speak up</text>
 <text class="t-ex" x="270" y="212" text-anchor="middle">Stay</text>
