@@ -44,7 +44,7 @@ Select a stage to jump to the project behind it.
 </dl>
 <ul class="papers">
 <li><a href="{{ site.baseurl }}/work-in-progress/">Remittances and Electoral Violence in Africa</a></li>
-<li><a href="{{ site.baseurl }}/work-in-progress/">The Political Valence of Financial Remittances</a>, with Sebastián Lavezzolo</li>
+<li><a href="{{ site.baseurl }}/work-in-progress/">The Political Valence of Financial Remittances</a>, with <a href="https://sites.google.com/view/sebastianlavezzolo">Sebastián Lavezzolo</a></li>
 </ul>
 </div>
 

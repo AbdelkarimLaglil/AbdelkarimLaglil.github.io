@@ -34,7 +34,7 @@ author_profile: true
 </div>
 <div class="lh-pp">
 <h3>The Political Valence of Financial Remittances: Authoritarian States and the Construction of Transnational Power</h3>
-<p class="by">Laglil, A. and Lavezzolo, S.</p>
+<p class="by">Laglil, A. and <a href="https://sites.google.com/view/sebastianlavezzolo">Lavezzolo, S.</a></p>
 <p class="tag">Book chapter, forthcoming in the Oxford Handbook of Remittances</p>
 </div>
 </section>

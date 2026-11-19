@@ -13,7 +13,7 @@ Current position
 ======
 * PhD Candidate in Social Sciences, Universidad Carlos III de Madrid (UC3M), Nov 2024 – present
   * Thesis: "Navigating Hostility: Migrant Agency in Response to Far-Right Exclusionary Politics"
-  * Supervisors: Sebastián Lavezzolo (UC3M) and Covadonga Meseguer (ICADE)
+  * Supervisors: [Sebastián Lavezzolo](https://sites.google.com/view/sebastianlavezzolo) (UC3M) and [Covadonga Meseguer](https://uc3m.es/ss/Satellite/UC3MInstitucional/en/TextoMixta/1371239176939/Covadonga_Meseguer) (ICADE)
   * Funding: UC3M predoctoral research contract ([PIPF 2025/D/LEYCTI/TD/4](https://www.uc3m.es/ss/Satellite/Empleo/es/Detalle/Ficha_C/1371435747834/1371272207002/PIPF_2025_D_LEYCTI_TD_4))
 
 Visiting positions
@@ -37,7 +37,7 @@ Work in progress
 * Laglil, A. "Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility"
 * Laglil, A. "Money, Staying, and Perceived Hostility: Distinct Futurities That Do Not Align"
 * Laglil, A. "Remittances and Electoral Violence in Africa: Household Exposure, Fear, and Electoral Context"
-* Laglil, A. and Lavezzolo, S. "The Political Valence of Financial Remittances: Authoritarian States and the Construction of Transnational Power." Chapter, forthcoming in the *Oxford Handbook of Remittances*
+* Laglil, A. and [Lavezzolo, S.](https://sites.google.com/view/sebastianlavezzolo) "The Political Valence of Financial Remittances: Authoritarian States and the Construction of Transnational Power." Chapter, forthcoming in the *Oxford Handbook of Remittances*
 * Laglil, A., Aguilar, P., and Villamil, F. "Broken promises: State withdrawal and mass grave exhumations in Spain"
 * Villamil, F., Aguilar, P., De la Cuesta, F., and Laglil, A. "The consequences of grassroots human rights: Mass grave exhumations in Spain." Working paper
 

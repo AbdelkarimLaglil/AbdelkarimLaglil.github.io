@@ -39,7 +39,7 @@ author_profile: true
 
 <section class="lh-dossier">
 <h2>The course at a glance</h2>
-<p class="lead">Temas de Política Comparada was designed and coordinated by Sebastián Lavezzolo. I taught seminar groups 35 and 36.</p>
+<p class="lead">Temas de Política Comparada was designed and coordinated by <a href="https://sites.google.com/view/sebastianlavezzolo">Sebastián Lavezzolo</a>. I taught seminar groups 35 and 36.</p>
 <p>The course goes from knowing content to understanding the argumentative logic of theories, with causal identification as a constant concern. Its fourteen weeks cover the scientific method, causality and identification, historical legacies (including those of political violence), inequality and democratization, the effects of political regimes, the survival of autocratic regimes, remittances and political regimes, state capacity, a data session, populism and technocracy, electoral systems and redistribution, political institutions and accountability, money in politics, and a final recap.</p>
 <p>Two of those sessions overlap with my own research: the legacies of political violence, and remittances and political regimes.</p>
 </section>
