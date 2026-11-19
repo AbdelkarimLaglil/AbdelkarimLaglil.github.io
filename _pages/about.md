@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "PhD student in Social Sciences at Universidad Carlos III de Madrid. Research on migrant agency under hostility and on political violence, with a focus on Spain and Germany."
 author_profile: true
 redirect_from:
   - /about/
