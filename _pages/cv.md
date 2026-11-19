@@ -19,7 +19,7 @@ Current position
 Visiting positions
 ======
 * Visiting Researcher (PhD visit), DIW Berlin, Sep – Dec 2026
-  * SOEP Visiting Young Scholar Program (VYSP)
+  * SOEP Visiting Young Scholar Program (VYSP): guest program for early-career researchers working with the German Socio-Economic Panel (SOEP), with reimbursement of travel and accommodation costs
   * Mentor: Jörg Hartmann
 
 Education
