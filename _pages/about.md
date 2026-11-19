@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student in Social Sciences at Universidad Carlos III de Madrid, Spain. My research focuses on migration, social mobilization, political violence, and transitional justice, with a focus on Spain and Germany.
+I am a PhD student in Social Sciences at Universidad Carlos III de Madrid, Spain. My research focuses on migrant agency under hostility, political violence, social mobilization, and transitional justice, with a focus on Spain and Germany.
 
 I am currently a visiting researcher at DIW Berlin (September–December 2026) through the SOEP Visiting Young Scholar Program (VYSP). The program hosts early-career researchers who work with the German Socio-Economic Panel (SOEP), and it supports my stay with a reimbursement of travel and accommodation costs. I am also a member of the organizing board of [PAPERSS](https://sites.google.com/view/paperss-seminarseries/home), the UC3M seminar series for pre- and post-doctoral empirical research in the social sciences (2026/2027). Since 2025/2026 I have been a teaching assistant in Topics in Comparative Politics, in UC3M's double degree in Law and Political Science, where I teach seminars.
 
