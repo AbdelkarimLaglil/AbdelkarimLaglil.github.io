@@ -5,6 +5,37 @@ permalink: /talks/
 author_profile: true
 ---
 
+<p class="lh-group">Conferences</p>
+<h2 class="lh-year">2026</h2>
+<ul class="lh-timeline">
+<li><span class="lh-venue">16th SOEP Users Conference</span><span class="lh-where">Berlin, Germany</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
+<li><span class="lh-venue">IMISCOE Annual Conference</span><span class="lh-where">Girona, Spain</span><span class="lh-paper">Remittances and Electoral Violence in Africa: Household Exposure, Fear, and Electoral Context</span></li>
+<li><span class="lh-venue">ECPR Joint Sessions of Workshops</span><span class="lh-where">Innsbruck, Austria</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
+<li><span class="lh-venue"><a href="https://epssnet.org/">European Political Science Society (EPSS)</a></span><span class="lh-where">Belfast, UK, 18–20 June</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
+<li><span class="lh-venue"><a href="https://madridempiricalsocialsciences.github.io/aboutus/">Madrid Empirical Social Sciences (MESS)</a></span><span class="lh-where">Madrid, Spain</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
+</ul>
+<h2 class="lh-year">2025</h2>
+<ul class="lh-timeline">
+<li><span class="lh-venue"><a href="https://madridempiricalsocialsciences.github.io/aboutus/">Madrid Empirical Social Sciences (MESS)</a></span><span class="lh-where">Madrid, Spain, October</span></li>
+<li><span class="lh-venue">15th EPSA Conference</span><span class="lh-where">Madrid, Spain, June</span><span class="lh-paper">Examining the Paradox of Migrant Remittances: Individual Benefits vs. Community Risks in Election-Related Violence</span></li>
+</ul>
+
+<p class="lh-group">Seminar presentations</p>
+<h2 class="lh-year">2026</h2>
+<ul class="lh-timeline">
+<li class="now"><span class="lh-venue">DeZIM Jour Fixe</span><span class="lh-where">DeZIM Institute, Berlin, 11 November</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
+<li class="now"><span class="lh-venue">Brown Bag Seminar Series</span><span class="lh-where">DIW Berlin, 4 November</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
+<li><span class="lh-venue">PAPERSS Seminar Series</span><span class="lh-where">Universidad Carlos III de Madrid, 5 May</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
+</ul>
+
+<p class="lh-group">Workshops</p>
+<ul class="lh-timeline">
+<li><span class="lh-venue">Junior Scholars in Quantitative Conflict Workshop</span><span class="lh-where">Virtual, December 2025</span><span class="lh-paper">Remittances and Electoral Violence in Africa: Household Exposure, Fear, and Electoral Context</span></li>
+<li><span class="lh-venue">UC3M-UB Graduate Workshop</span><span class="lh-where">Universitat de Barcelona, Spain, June 2024</span><span class="lh-paper">MA thesis</span></li>
+</ul>
+
+<p class="lh-group">Where I have presented</p>
+
 <div class="lh-talkmap">
 <svg viewBox="0 0 640 470" role="group" aria-label="Map of the places where I have presented">
 <defs><filter id="tm-blur" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="13"/></filter><mask id="tm-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="640" height="470"><rect x="125" y="16" width="400" height="438" fill="#fff" filter="url(#tm-blur)"/></mask></defs>
@@ -36,32 +67,3 @@ for(var k=0;k<cs.length;k++){var t=cs[k].getAttribute('data-target');
 e.addEventListener('keydown',function(ev){if(ev.key==='Enter'||ev.key===' '){ev.preventDefault();show(t);}});})(t);}
 show('tm-berlin');})();
 </script>
-
-<p class="lh-group">Conferences</p>
-<h2 class="lh-year">2026</h2>
-<ul class="lh-timeline">
-<li><span class="lh-venue">16th SOEP Users Conference</span><span class="lh-where">Berlin, Germany</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
-<li><span class="lh-venue">IMISCOE Annual Conference</span><span class="lh-where">Girona, Spain</span><span class="lh-paper">Remittances and Electoral Violence in Africa: Household Exposure, Fear, and Electoral Context</span></li>
-<li><span class="lh-venue">ECPR Joint Sessions of Workshops</span><span class="lh-where">Innsbruck, Austria</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
-<li><span class="lh-venue"><a href="https://epssnet.org/">European Political Science Society (EPSS)</a></span><span class="lh-where">Belfast, UK, 18–20 June</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
-<li><span class="lh-venue"><a href="https://madridempiricalsocialsciences.github.io/aboutus/">Madrid Empirical Social Sciences (MESS)</a></span><span class="lh-where">Madrid, Spain</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
-</ul>
-<h2 class="lh-year">2025</h2>
-<ul class="lh-timeline">
-<li><span class="lh-venue"><a href="https://madridempiricalsocialsciences.github.io/aboutus/">Madrid Empirical Social Sciences (MESS)</a></span><span class="lh-where">Madrid, Spain, October</span></li>
-<li><span class="lh-venue">15th EPSA Conference</span><span class="lh-where">Madrid, Spain, June</span><span class="lh-paper">Examining the Paradox of Migrant Remittances: Individual Benefits vs. Community Risks in Election-Related Violence</span></li>
-</ul>
-
-<p class="lh-group">Seminar presentations</p>
-<h2 class="lh-year">2026</h2>
-<ul class="lh-timeline">
-<li class="now"><span class="lh-venue">DeZIM Jour Fixe</span><span class="lh-where">DeZIM Institute, Berlin, 11 November</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
-<li class="now"><span class="lh-venue">Brown Bag Seminar Series</span><span class="lh-where">DIW Berlin, 4 November</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
-<li><span class="lh-venue">PAPERSS Seminar Series</span><span class="lh-where">Universidad Carlos III de Madrid, 5 May</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>
-</ul>
-
-<p class="lh-group">Workshops</p>
-<ul class="lh-timeline">
-<li><span class="lh-venue">Junior Scholars in Quantitative Conflict Workshop</span><span class="lh-where">Virtual, December 2025</span><span class="lh-paper">Remittances and Electoral Violence in Africa: Household Exposure, Fear, and Electoral Context</span></li>
-<li><span class="lh-venue">UC3M-UB Graduate Workshop</span><span class="lh-where">Universitat de Barcelona, Spain, June 2024</span><span class="lh-paper">MA thesis</span></li>
-</ul>
