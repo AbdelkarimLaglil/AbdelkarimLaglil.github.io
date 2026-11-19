@@ -13,7 +13,7 @@ Current position
 ======
 * PhD Candidate in Social Sciences, Universidad Carlos III de Madrid (UC3M), Nov 2024 – present
   * Thesis: "Navigating Hostility: Migrant Agency in Response to Far-Right Exclusionary Politics"
-  * Supervisors: [Sebastián Lavezzolo](https://sites.google.com/view/sebastianlavezzolo) (UC3M) and [Covadonga Meseguer](https://uc3m.es/ss/Satellite/UC3MInstitucional/en/TextoMixta/1371239176939/Covadonga_Meseguer) (ICADE)
+  * Supervisors: [Sebastián Lavezzolo](https://sites.google.com/view/sebastianlavezzolo) (UC3M) and [Covadonga Meseguer](https://web.comillas.edu/profesor/cmeseguer) (ICADE)
   * Funding: UC3M predoctoral research contract ([PIPF 2025/D/LEYCTI/TD/4](https://www.uc3m.es/ss/Satellite/Empleo/es/Detalle/Ficha_C/1371435747834/1371272207002/PIPF_2025_D_LEYCTI_TD_4))
 
 Visiting positions
