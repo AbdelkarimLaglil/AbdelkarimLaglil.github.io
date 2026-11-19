@@ -34,4 +34,4 @@ Three questions drive my work
 <li><strong>What happens when the state withdraws from the past?</strong><span>Mass grave exhumations in Spain and their effects on local communities.</span></li>
 </ul>
 
-See [Publications]({{ site.baseurl }}/publications/) and [Talks]({{ site.baseurl }}/talks/).
+See [Work in progress]({{ site.baseurl }}/work-in-progress/) and [Talks]({{ site.baseurl }}/talks/).

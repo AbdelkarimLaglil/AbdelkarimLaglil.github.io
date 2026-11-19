@@ -14,6 +14,7 @@ Current position
 * PhD Candidate in Social Sciences, Universidad Carlos III de Madrid (UC3M), Nov 2024 – present
   * Thesis: "Navigating Hostility: Migrant Agency in Response to Far-Right Exclusionary Politics"
   * Supervisors: Sebastián Lavezzolo (UC3M) and Covadonga Meseguer (ICADE)
+  * Funding: UC3M predoctoral research contract ([PIPF 2025/D/LEYCTI/TD/4](https://www.uc3m.es/ss/Satellite/Empleo/es/Detalle/Ficha_C/1371435747834/1371272207002/PIPF_2025_D_LEYCTI_TD_4))
 
 Visiting positions
 ======
@@ -31,7 +32,7 @@ Research experience
 * Predoc Research Assistant, IC3JM (Apr 2024 – Jul 2025): project "Dynamics and consequences of Transitional Justice at the local level" (PI: Francisco Villamil Fernández)
 * Predoc Research Assistant, Figuerola Institute, UC3M (Jan – Apr 2024): project "Integration histories of peripheral Latin capitalisms" (PI: Antonio Tena Junguito)
 
-Publications and work in progress
+Work in progress
 ======
 * "Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility" (single author)
 * "Money, Staying, and Perceived Hostility: Distinct Futurities That Do Not Align" (single author)
@@ -40,7 +41,7 @@ Publications and work in progress
 * Laglil, A., with Aguilar, P. and Villamil, F. "Broken promises: State withdrawal and mass grave exhumations in Spain"
 * Villamil, F., Aguilar, P., De la Cuesta, F., and Laglil, A. "The consequences of grassroots human rights: Mass grave exhumations in Spain." Working paper
 
-See [Publications]({{ site.baseurl }}/publications/) for details.
+See [Work in progress]({{ site.baseurl }}/work-in-progress/) for details.
 
 Teaching
 ======

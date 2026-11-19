@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Work in progress"
+permalink: /work-in-progress/
+redirect_from:
+  - /publications/
 author_profile: true
 ---
-
-All of the work below is in progress.
 
 <section class="lh-dossier">
 <h2>How migrants respond to political hostility</h2>
