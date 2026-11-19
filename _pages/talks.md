@@ -9,14 +9,15 @@ Conference presentations
 ======
 
 **2026**
-* ECPR Joint Sessions (JS ECPR) 2026
-* EPSS 2026
-* IMISCOE Annual Conference 2026
-* MESS 2026
+* 16th SOEP Users Conference, Berlin, Germany
+* IMISCOE Annual Conference, Girona, Spain
+* ECPR Joint Sessions of Workshops, Innsbruck, Austria
+* EPSS 2026, Belfast, UK
+* MESS 2026, Madrid, Spain
 
 **2025**
-* EPSA Annual Conference 2025 (15th edition, 26–28 June 2025): "Examining the Paradox of Migrant Remittances: Individual Benefits vs. Community Risks in Election-Related Violence"
-* MESS 2025
+* Madrid Empirical Social Sciences Network (MESS), Madrid, Spain. October 2025
+* 15th EPSA Conference, Madrid, Spain. June 2025: "Examining the Paradox of Migrant Remittances: Individual Benefits vs. Community Risks in Election-Related Violence"
 
 Invited seminars
 ======
@@ -24,3 +25,9 @@ Invited seminars
 * **DeZIM Jour Fixe**, DeZIM Institute, Berlin. 11 November 2026.
 * **Brown Bag Seminar Series**, DIW Berlin. 4 November 2026.
 * **PAPERSS Seminar Series**, Universidad Carlos III de Madrid. 5 May 2026.
+
+Workshops
+======
+
+* Junior Scholars in Quantitative Conflict Workshop, virtual. December 2025
+* UC3M-UB Graduate Workshop, Universitat de Barcelona, Spain. June 2024
