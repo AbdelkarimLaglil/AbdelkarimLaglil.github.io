@@ -134,3 +134,5 @@ html[data-theme="dark"] .lh-node[aria-pressed="true"] { background: rgba(142, 16
   .lh-row { grid-template-columns: 1fr; }
   .lh-back { display: none; }
 }
+
+.lh-entry.minor { border-left-color: var(--lh-rule); }

@@ -15,17 +15,17 @@ author_profile: true
 </section>
 
 <section class="lh-dossier">
-<h2>Causes and consequences of political violence</h2>
-<p class="lead">Mass grave exhumations and transitional justice in Spain.</p>
-<div class="lh-entry"><span class="title">Broken promises: State withdrawal and mass grave exhumations in Spain</span><span class="who">Laglil, A., Aguilar, P., and Villamil, F.</span></div>
-<div class="lh-entry"><span class="title">The consequences of grassroots human rights: Mass grave exhumations in Spain</span><span class="who">Villamil, F., Aguilar, P., De la Cuesta, F., and Laglil, A. Working paper</span></div>
+<h2>Violence across borders</h2>
+<p class="lead">How electoral violence and state power in countries of origin connect to migrants' remittances.</p>
+<div class="lh-entry"><span class="title">Remittances and Electoral Violence in Africa: Household Exposure, Fear, and Electoral Context</span><span class="who">Laglil, A.</span></div>
+<div class="lh-entry chapter"><span class="title">The Political Valence of Financial Remittances: Authoritarian States and the Construction of Transnational Power</span><span class="who">Laglil, A. and Lavezzolo, S. Book chapter, forthcoming in the Oxford Handbook of Remittances</span></div>
 </section>
 
 <section class="lh-dossier">
-<h2>Where the two meet</h2>
-<p class="lead">Remittances link migrants to violence and to state power in their countries of origin.</p>
-<div class="lh-entry"><span class="title">Remittances and Electoral Violence in Africa: Household Exposure, Fear, and Electoral Context</span><span class="who">Laglil, A.</span></div>
-<div class="lh-entry chapter"><span class="title">The Political Valence of Financial Remittances: Authoritarian States and the Construction of Transnational Power</span><span class="who">Laglil, A. and Lavezzolo, S. Book chapter, forthcoming in the Oxford Handbook of Remittances</span></div>
+<h2>Legacies of violence in Spain</h2>
+<p class="lead">Mass grave exhumations and transitional justice, in collaborative work.</p>
+<div class="lh-entry minor"><span class="title">Broken promises: State withdrawal and mass grave exhumations in Spain</span><span class="who">Laglil, A., Aguilar, P., and Villamil, F.</span></div>
+<div class="lh-entry minor"><span class="title">The consequences of grassroots human rights: Mass grave exhumations in Spain</span><span class="who">Villamil, F., Aguilar, P., De la Cuesta, F., and Laglil, A. Working paper</span></div>
 </section>
 
 <section class="lh-dossier">

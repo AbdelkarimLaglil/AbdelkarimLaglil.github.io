@@ -28,9 +28,11 @@ He is currently a visiting researcher at DIW Berlin (September–December 2026) 
 My research
 ======
 
-<div class="lh-entry"><span class="title">1. Migrant agency under hostility</span><span class="sub">How migrants respond when politics turns against them: leaving, speaking up, staying, or sending money home. I study Germany with the SOEP panel, and it is the subject of my thesis.</span></div>
-<div class="lh-entry"><span class="title">2. The causes and consequences of political violence</span><span class="sub">Why violence happens, what it leaves behind, and how states and societies respond: electoral violence, and mass graves and transitional justice in Spain.</span></div>
-<div class="lh-entry chapter"><span class="title">Where they meet</span><span class="sub">Hostility toward migrants (hate crimes, anti-immigrant rallies, far-right exclusionary politics) is itself political violence. And remittances tie migrants to electoral violence in their countries of origin. I work on both sides of that link.</span></div>
+My work asks how people respond to political violence and hostility. Most of it follows migrants: what they do when politics turns against them where they live, and how violence in the places they come from reaches them across borders.
+
+<div class="lh-entry"><span class="title">Migrant agency under hostility</span><span class="sub">How migrants respond to hostility where they settle (hate crimes, anti-immigrant rallies, far-right exclusionary politics), which I treat as political violence. They can leave, speak up, stay, or send money home. I study Germany with the SOEP panel, and it is the subject of my thesis.</span></div>
+<div class="lh-entry chapter"><span class="title">Violence across borders</span><span class="sub">How violence in migrants' countries of origin connects to what they do abroad: electoral violence, remittances, and how authoritarian states use migrants' money and ties to build transnational power.</span></div>
+<div class="lh-entry minor"><span class="title">Legacies of violence in Spain</span><span class="sub">In collaborative work, I study mass grave exhumations and what happens when the state withdraws from transitional justice.</span></div>
 
 Select a part below to see how my work connects.
 
