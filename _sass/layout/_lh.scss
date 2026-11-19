@@ -154,3 +154,19 @@ html[data-theme="dark"] .lh-node[aria-pressed="true"] { background: rgba(142, 16
     padding-right: 0;
   }
 }
+
+/* ---- Research project cards ---- */
+.lh-card { margin: 1.4rem 0; padding: 0.2rem 0 0.4rem 1.1rem; border-left: 4px solid var(--lh-route); scroll-margin-top: 5rem; }
+.lh-card.now { border-left-color: var(--lh-now); }
+.lh-card.quiet { border-left-color: var(--lh-rule); }
+.lh-card h2 { margin: 0 0 0.2rem; }
+.lh-card .q { font-style: italic; margin: 0 0 0.7rem; }
+.lh-card dl { display: grid; grid-template-columns: 6rem 1fr; gap: 0.45rem 1rem; align-items: baseline; margin: 0 0 0.8rem; font-size: 0.97rem; line-height: 1.5; }
+.lh-card dt, .lh-card dd { margin: 0; padding: 0; float: none; width: auto; clear: none; }
+.lh-card dt { font-family: var(--lh-display); font-weight: 600; font-size: 0.9rem; color: var(--lh-muted); }
+.lh-card dd { font-family: var(--lh-body); font-size: 0.97rem; }
+.lh-card .papers { margin: 0 0 0.3rem 1.1rem; padding: 0; }
+.lh-card.flash { animation: lh-flash 1.6s ease-out; }
+@keyframes lh-flash { from { background: rgba(37, 71, 208, 0.12); } to { background: transparent; } }
+@media (max-width: 40em) { .lh-card dl { grid-template-columns: 1fr; gap: 0; } .lh-card dd { margin-bottom: 0.4rem; } }
+@media (prefers-reduced-motion: reduce) { .lh-card.flash { animation: none; } }
