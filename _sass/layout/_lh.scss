@@ -62,6 +62,8 @@ html:not([data-theme="dark"]) .archive { background-color: var(--lh-paper); }
   stroke-dasharray: 1; stroke-dashoffset: 1;
   animation: lh-draw 2.2s ease-out 0.3s forwards;
 }
+.lh-route .land path { fill: var(--lh-rule); fill-opacity: 0.55; stroke: var(--lh-paper); stroke-width: 0.8; stroke-linejoin: round; }
+.lh-route .leader { fill: none; stroke: var(--lh-muted); stroke-width: 0.8; stroke-dasharray: 1 4; stroke-linecap: round; opacity: 0.7; }
 .lh-route .from { fill: var(--lh-ink); }
 .lh-route .to { fill: var(--lh-now); }
 .lh-route text { font-family: var(--lh-display); fill: var(--lh-ink); }
