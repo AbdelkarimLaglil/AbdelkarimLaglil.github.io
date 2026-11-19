@@ -28,6 +28,7 @@ Select a stage to jump to the project behind it.
 <dt>Setting</dt><dd>Germany, mainly but not exclusively, and Spain</dd>
 <dt>Data</dt><dd>SOEP panel, 1984–2023; intermunicipal mobility data around relevant episodes in Spain</dd>
 <dt>Thesis</dt><dd>Navigating Hostility: Migrant Agency in Response to Far-Right Exclusionary Politics</dd>
+<dt>Supervisors</dt><dd><a href="https://sites.google.com/view/sebastianlavezzolo">Sebastián Lavezzolo</a> (UC3M) and <a href="https://web.comillas.edu/profesor/cmeseguer">Covadonga Meseguer</a> (ICADE)</dd>
 </dl>
 <ul class="papers">
 <li><a href="{{ site.baseurl }}/work-in-progress/">Exit, Voice and the Limits of Both</a></li>

@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD student in Social Sciences at Universidad Carlos III de Madrid, Spain. My research focuses on migration, social mobilization, political violence, and transitional justice, with a focus on Spain and Germany.
 
-Across these topics I ask how people respond when politics turns hostile or violent against them. This is the subject of my dissertation, which studies migrant agency in response to far-right exclusionary politics.
+Across these topics I ask how people respond when politics turns hostile or violent against them. This is the subject of my dissertation, which studies migrant agency in response to far-right exclusionary politics. My supervisors are [Sebastián Lavezzolo](https://sites.google.com/view/sebastianlavezzolo) (UC3M) and [Covadonga Meseguer](https://web.comillas.edu/profesor/cmeseguer) (ICADE).
 
 I am currently a visiting researcher at DIW Berlin (September–December 2026) through the SOEP Visiting Young Scholar Program (VYSP), where I develop research using longitudinal designs. The program hosts early-career researchers who work with the German Socio-Economic Panel (SOEP), and it supports my stay with a reimbursement of travel and accommodation costs.
 
