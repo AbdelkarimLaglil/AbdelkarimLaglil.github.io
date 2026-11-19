@@ -170,3 +170,14 @@ html[data-theme="dark"] .lh-node[aria-pressed="true"] { background: rgba(142, 16
 @keyframes lh-flash { from { background: rgba(37, 71, 208, 0.12); } to { background: transparent; } }
 @media (max-width: 40em) { .lh-card dl { grid-template-columns: 1fr; gap: 0; } .lh-card dd { margin-bottom: 0.4rem; } }
 @media (prefers-reduced-motion: reduce) { .lh-card.flash { animation: none; } }
+
+/* ---- Work in progress: paper entries inside project cards ---- */
+.lh-intro { max-width: 46rem; color: var(--lh-muted); margin: 0 0 0.6rem; }
+.lh-card .lh-pp { margin: 1.1rem 0 1.3rem; }
+.lh-card .lh-pp + .lh-pp { padding-top: 1.1rem; border-top: 1px solid var(--lh-rule); }
+.lh-pp h3 { margin: 0 0 0.15rem; font-family: var(--lh-display); font-size: 1.08rem; line-height: 1.35; font-weight: 700; }
+.lh-pp p { margin: 0.1rem 0; }
+.lh-pp .sub { font-style: italic; }
+.lh-pp .by { color: var(--lh-ink); }
+.lh-pp .tag { display: inline-block; margin-top: 0.35rem; padding: 0.05rem 0.6rem; border: 1px solid var(--lh-rule); border-radius: 999px; font-family: var(--lh-display); font-size: 0.82rem; font-weight: 600; color: var(--lh-muted); }
+.lh-pp .at { margin-top: 0.4rem; font-size: 0.93rem; color: var(--lh-muted); }
