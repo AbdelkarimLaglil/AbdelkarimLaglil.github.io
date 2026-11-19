@@ -20,7 +20,7 @@ author_profile: true
 <li><span class="lh-venue">15th EPSA Conference</span><span class="lh-where">Madrid, Spain, June</span><span class="lh-paper">Examining the Paradox of Migrant Remittances: Individual Benefits vs. Community Risks in Election-Related Violence</span></li>
 </ul>
 
-<p class="lh-group">Invited seminars</p>
+<p class="lh-group">Seminar presentations</p>
 <h2 class="lh-year">2026</h2>
 <ul class="lh-timeline">
 <li class="now"><span class="lh-venue">DeZIM Jour Fixe</span><span class="lh-where">DeZIM Institute, Berlin, 11 November</span><span class="lh-paper">Exit, Voice and the Limits of Both: Migrant Agency under Local Political Hostility</span></li>

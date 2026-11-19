@@ -53,7 +53,7 @@ Service
 
 Talks
 ======
-See [Talks]({{ site.baseurl }}/talks/) for conference presentations (SOEP Users Conference, IMISCOE, ECPR Joint Sessions, EPSS, MESS, EPSA), invited seminars (DeZIM, DIW Berlin, PAPERSS) and workshops.
+See [Talks]({{ site.baseurl }}/talks/) for conference presentations (SOEP Users Conference, IMISCOE, ECPR Joint Sessions, EPSS, MESS, EPSA), seminar presentations (DeZIM, DIW Berlin, PAPERSS) and workshops.
 
 Skills
 ======
