@@ -38,6 +38,7 @@ Publications and work in progress
 * "Remittances and Electoral Violence in Africa: Household Exposure, Fear, and Electoral Context" (single author)
 * Laglil, A. and Lavezzolo, S. "The Political Valence of Financial Remittances: Authoritarian States and the Construction of Transnational Power." Chapter, forthcoming in the *Oxford Handbook of Remittances*
 * Laglil, A., with Aguilar, P. and Villamil, F. "Broken promises: State withdrawal and mass grave exhumations in Spain"
+* Villamil, F., Aguilar, P., De la Cuesta, F., and Laglil, A. "The consequences of grassroots human rights: Mass grave exhumations in Spain." Working paper
 
 See [Publications]({{ site.baseurl }}/publications/) for details.
 
