@@ -32,6 +32,15 @@ I am currently a visiting researcher at DIW Berlin (September–December 2026) t
 </svg>
 </div>
 
+<script>
+(function(){var r=document.querySelector('.lh-route');if(!r)return;
+if(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;
+r.classList.add('js');
+function play(){r.classList.remove('go');void r.offsetWidth;r.classList.add('go');}
+if('IntersectionObserver' in window){var io=new IntersectionObserver(function(e){if(e[0].isIntersecting){play();io.disconnect();}},{threshold:0.6});io.observe(r);}else{play();}
+r.addEventListener('mouseenter',play);r.addEventListener('click',play);})();
+</script>
+
 <div class="lh-org">
 <p>I am also on the organizing board of <a href="https://sites.google.com/view/paperss-seminarseries/home">PAPERSS</a>, the UC3M seminar series for pre- and post-doctoral empirical research in the social sciences (2026/2027). I organize it together with fellow PhD students in Social Sciences:</p>
 <ul class="lh-people">
