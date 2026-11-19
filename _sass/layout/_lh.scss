@@ -216,3 +216,10 @@ html[data-theme="dark"] .lh-people a:hover, html[data-theme="dark"] .lh-people a
 .lh-tm-list li span { color: var(--lh-muted); }
 .lh-talkmap.js .lh-tm-list { display: none; }
 .lh-talkmap.js .lh-tm-list.on { display: block; }
+
+/* ---- Research: plain sections ---- */
+.lh-sec { margin: 2.2rem 0 0; padding-top: 1.4rem; border-top: 1px solid var(--lh-rule); }
+.lh-sec h2 { margin: 0 0 0.3rem; }
+.lh-sec .q { font-style: italic; margin: 0 0 0.7rem; }
+.lh-sec p { margin: 0 0 0.8rem; }
+.lh-sec .papers { margin: 0 0 0.3rem 1.1rem; padding: 0; }
