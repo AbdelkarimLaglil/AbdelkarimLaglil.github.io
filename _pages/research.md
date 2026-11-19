@@ -48,6 +48,7 @@ One question runs through my work: how do people respond when politics turns hos
 <ul class="papers">
 <li><a href="{{ site.baseurl }}/work-in-progress/">Exit, Voice and the Limits of Both</a></li>
 <li><a href="{{ site.baseurl }}/work-in-progress/">Money, Staying, and Perceived Hostility</a></li>
+<li><a href="{{ site.baseurl }}/work-in-progress/">Migrant profiles</a>, provisional dissertation chapter</li>
 </ul>
 </section>
 

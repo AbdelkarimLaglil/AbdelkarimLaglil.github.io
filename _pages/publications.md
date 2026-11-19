@@ -22,6 +22,12 @@ author_profile: true
 <p class="sub">Migrant agency under hostility in Germany, SOEP 1984–2023</p>
 <p class="by">Laglil, A.</p>
 </div>
+<div class="lh-pp">
+<h3>Migrant profiles: A latent class analysis of integration and transnationalism in Germany</h3>
+<p class="sub">Working title, SOEP</p>
+<p class="by">Laglil, A.</p>
+<p class="tag">Dissertation chapter, provisional</p>
+</div>
 </section>
 
 <section class="lh-card now" id="borders">
