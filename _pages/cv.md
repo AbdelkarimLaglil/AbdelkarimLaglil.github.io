@@ -12,7 +12,7 @@ redirect_from:
 Current position
 ======
 * PhD Candidate in Social Sciences, Universidad Carlos III de Madrid (UC3M), Nov 2024 – present
-  * Thesis: "Navigating Hostility: Migrant Reactive Transnationalism in Response to Far-Right Exclusionary Politics"
+  * Thesis: "Navigating Hostility: Migrant Agency in Response to Far-Right Exclusionary Politics"
   * Supervisors: Sebastián Lavezzolo (UC3M) and Covadonga Meseguer (ICADE)
 
 Visiting positions
