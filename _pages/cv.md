@@ -44,7 +44,7 @@ See [Publications]({{ site.baseurl }}/publications/) for details.
 
 Teaching
 ======
-* Teaching Assistant, Comparative Politics (*Temas de Política Comparada*), Double Degree in Law and Political Science, UC3M, Sep 2025 – Jan 2026: seminar sessions and two guest lectures
+* Teaching Assistant, Comparative Politics (*Temas de Política Comparada*), Double Degree in Law and Political Science, UC3M, Sep 2025 – Jan 2026: seminar sessions and two guest lectures. Student evaluations of 4.89 and 4.80 out of 5 (groups 35 and 36)
 
 Service
 ======
