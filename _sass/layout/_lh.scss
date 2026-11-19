@@ -170,13 +170,3 @@ html[data-theme="dark"] .lh-node[aria-pressed="true"] { background: rgba(142, 16
 @keyframes lh-flash { from { background: rgba(37, 71, 208, 0.12); } to { background: transparent; } }
 @media (max-width: 40em) { .lh-card dl { grid-template-columns: 1fr; gap: 0; } .lh-card dd { margin-bottom: 0.4rem; } }
 @media (prefers-reduced-motion: reduce) { .lh-card.flash { animation: none; } }
-
-/* ---- About: current activities ---- */
-.lh-current { margin: 1.6rem 0; }
-.lh-current h2 { margin: 0 0 0.6rem; }
-.lh-current dl { display: grid; grid-template-columns: 8rem 1fr; gap: 0.9rem 1rem; align-items: baseline; margin: 0; line-height: 1.55; }
-.lh-current dt, .lh-current dd { margin: 0; padding: 0; float: none; width: auto; clear: none; }
-.lh-current dt { font-family: var(--lh-display); font-weight: 600; font-size: 0.9rem; color: var(--lh-muted); }
-.lh-current dd { font-family: var(--lh-body); font-size: 1rem; }
-.lh-current dd strong { font-family: var(--lh-display); font-weight: 700; }
-@media (max-width: 40em) { .lh-current dl { grid-template-columns: 1fr; gap: 0; } .lh-current dd { margin-bottom: 0.9rem; } }
