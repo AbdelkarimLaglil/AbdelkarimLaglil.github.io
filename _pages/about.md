@@ -13,7 +13,7 @@ I am a PhD student in Social Sciences at Universidad Carlos III de Madrid, Spain
 
 Across these topics I ask how people respond when politics turns hostile or violent against them. This is the subject of my dissertation, which studies migrant agency in response to far-right exclusionary politics. You can read more in [Research]({{ site.baseurl }}/research/), find the papers in [Work in progress]({{ site.baseurl }}/work-in-progress/), see where I have presented them in [Talks]({{ site.baseurl }}/talks/), and learn how I teach in [Teaching]({{ site.baseurl }}/teaching/).
 
-I am currently a visiting researcher at DIW Berlin (September–December 2026) through the SOEP Visiting Young Scholar Program (VYSP). The program hosts early-career researchers who work with the German Socio-Economic Panel (SOEP), and it supports my stay with a reimbursement of travel and accommodation costs. I am also a member of the organizing board of [PAPERSS](https://sites.google.com/view/paperss-seminarseries/home), the UC3M seminar series for pre- and post-doctoral empirical research in the social sciences (2026/2027). Since 2025/2026 I have been a teaching assistant in Topics in Comparative Politics, in UC3M's double degree in Law and Political Science, where I teach seminars.
+I am currently a visiting researcher at DIW Berlin (September–December 2026) through the SOEP Visiting Young Scholar Program (VYSP). The program hosts early-career researchers who work with the German Socio-Economic Panel (SOEP), and it supports my stay with a reimbursement of travel and accommodation costs.
 
 <div class="lh-route">
 <svg viewBox="0 0 640 188" role="img" aria-label="Route from Madrid, where I do my PhD, to Berlin, where I am a visiting researcher from September to December 2026">
@@ -29,3 +29,14 @@ I am currently a visiting researcher at DIW Berlin (September–December 2026) t
 <a href="https://www.diw.de/" aria-label="DIW Berlin and SOEP"><rect class="logo-bg" x="490" y="101" width="120" height="30" rx="5"/><image href="{{ site.baseurl }}/images/logo-diw-soep.png" x="496" y="106" width="108" height="19" preserveAspectRatio="xMaxYMid meet"/></a>
 </svg>
 </div>
+
+<div class="lh-org">
+<p>I am also on the organizing board of <a href="https://sites.google.com/view/paperss-seminarseries/home">PAPERSS</a>, the UC3M seminar series for pre- and post-doctoral empirical research in the social sciences (2026/2027). I organize it together with fellow PhD students in Social Sciences:</p>
+<ul class="lh-people">
+<li><a href="https://uc3m.es/departamento-ciencias-sociales/media/departamento-ciencias-sociales/doc/archivo/doc_ruiz-inigo/cv---english.pdf">Íñigo Ruiz Hilera</a></li>
+<li><a href="https://researchportal.uc3m.es/display/inv51131">Tommaso Camilot</a></li>
+<li><a href="https://www.uc3m.es/departamento-ciencias-sociales/media/departamento-ciencias-sociales/doc/archivo/doc_endtz-roeland/cv-roeland-endtz-dec-2025-1.pdf">Roeland Endtz</a></li>
+</ul>
+</div>
+
+Since 2025/2026 I have been a teaching assistant in Topics in Comparative Politics, in UC3M's double degree in Law and Political Science, where I teach seminars.
