@@ -20,7 +20,7 @@ I am currently a visiting researcher at DIW Berlin (September–December 2026) t
 <circle class="from" cx="40" cy="112" r="7"/>
 <circle class="to" cx="596" cy="38" r="9"/>
 <text class="place" x="56" y="118">Madrid</text>
-<text class="note" x="56" y="137">PhD, Universidad Carlos III</text>
+<text class="note" x="56" y="137">PhD, UC3M</text>
 <text class="place" x="604" y="74" text-anchor="end">Berlin</text>
 <text class="note" x="604" y="93" text-anchor="end">Visiting DIW Berlin, Sep–Dec 2026</text>
 <a href="https://www.uc3m.es/" aria-label="Universidad Carlos III de Madrid"><rect class="logo-bg" x="50" y="145" width="99" height="36" rx="5"/><image href="{{ site.baseurl }}/images/logo-uc3m.png" x="56" y="150" width="87" height="26" preserveAspectRatio="xMinYMid meet"/></a>
@@ -28,4 +28,4 @@ I am currently a visiting researcher at DIW Berlin (September–December 2026) t
 </svg>
 </div>
 
-The question behind it is how people respond to political violence and hostility. You can read more in [Research]({{ site.baseurl }}/research/), find the papers in [Work in progress]({{ site.baseurl }}/work-in-progress/), see where I have presented them in [Talks]({{ site.baseurl }}/talks/), and learn how I teach in [Teaching]({{ site.baseurl }}/teaching/).
+Across these topics I ask how people respond when politics turns hostile or violent against them. You can read more in [Research]({{ site.baseurl }}/research/), find the papers in [Work in progress]({{ site.baseurl }}/work-in-progress/), see where I have presented them in [Talks]({{ site.baseurl }}/talks/), and learn how I teach in [Teaching]({{ site.baseurl }}/teaching/).
