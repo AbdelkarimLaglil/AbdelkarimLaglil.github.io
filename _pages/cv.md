@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV (PDF)](https://www.uc3m.es/departamento-ciencias-sociales/media/departamento-ciencias-sociales/doc/archivo/doc_laglil-abdelkarim/cv_abdelkarim_26.pdf)
+[Download my CV (PDF, November 2026)]({{ site.baseurl }}/files/cv_abdelkarim_laglil.pdf)
 
 Current position
 ======
