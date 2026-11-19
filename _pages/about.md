@@ -11,6 +11,8 @@ redirect_from:
 
 I am a PhD student in Social Sciences at Universidad Carlos III de Madrid, Spain. My research focuses on migration, social mobilization, political violence, and transitional justice, with a focus on Spain and Germany.
 
+Across these topics I ask how people respond when politics turns hostile or violent against them. This is the subject of my dissertation, which studies migrant agency in response to far-right exclusionary politics. You can read more in [Research]({{ site.baseurl }}/research/), find the papers in [Work in progress]({{ site.baseurl }}/work-in-progress/), see where I have presented them in [Talks]({{ site.baseurl }}/talks/), and learn how I teach in [Teaching]({{ site.baseurl }}/teaching/).
+
 I am currently a visiting researcher at DIW Berlin (September–December 2026) through the SOEP Visiting Young Scholar Program (VYSP). The program hosts early-career researchers who work with the German Socio-Economic Panel (SOEP), and it supports my stay with a reimbursement of travel and accommodation costs. I am also a member of the organizing board of [PAPERSS](https://sites.google.com/view/paperss-seminarseries/home), the UC3M seminar series for pre- and post-doctoral empirical research in the social sciences (2026/2027). Since 2025/2026 I have been a teaching assistant in Topics in Comparative Politics, in UC3M's double degree in Law and Political Science, where I teach seminars.
 
 <div class="lh-route">
@@ -27,5 +29,3 @@ I am currently a visiting researcher at DIW Berlin (September–December 2026) t
 <a href="https://www.diw.de/" aria-label="DIW Berlin and SOEP"><rect class="logo-bg" x="490" y="101" width="120" height="30" rx="5"/><image href="{{ site.baseurl }}/images/logo-diw-soep.png" x="496" y="106" width="108" height="19" preserveAspectRatio="xMaxYMid meet"/></a>
 </svg>
 </div>
-
-Across these topics I ask how people respond when politics turns hostile or violent against them. You can read more in [Research]({{ site.baseurl }}/research/), find the papers in [Work in progress]({{ site.baseurl }}/work-in-progress/), see where I have presented them in [Talks]({{ site.baseurl }}/talks/), and learn how I teach in [Teaching]({{ site.baseurl }}/teaching/).
