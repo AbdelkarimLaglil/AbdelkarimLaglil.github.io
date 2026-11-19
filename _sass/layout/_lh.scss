@@ -66,6 +66,9 @@ html:not([data-theme="dark"]) .archive { background-color: var(--lh-paper); }
 .lh-route .to { fill: var(--lh-now); }
 .lh-route text { font-family: var(--lh-display); fill: var(--lh-ink); }
 .lh-route .place { font-size: 17px; font-weight: 700; }
+.lh-route .logo-bg { fill: transparent; }
+html[data-theme="dark"] .lh-route .logo-bg { fill: #eef1ee; }
+.lh-route a { text-decoration: none; }
 .lh-route .note { font-size: 13px; font-weight: 500; fill: var(--lh-muted); }
 @keyframes lh-draw { to { stroke-dashoffset: 0; } }
 @media (prefers-reduced-motion: reduce) {
