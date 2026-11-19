@@ -7,58 +7,41 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my CV (PDF, Department of Social Sciences, UC3M)](https://uc3m.es/departamento-ciencias-sociales/media/departamento-ciencias-sociales/doc/archivo/doc_laglil-abdelkarim/phd_cv_for_carlos_iii_webpage.pdf)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Social Sciences, Universidad Carlos III de Madrid (UC3M), Sep 2024 – present
+* MRes in Social Sciences, Carlos III-Juan March Institute (IC3JM), Sep 2022 – Sep 2024
+* B.Sc. in International Studies, UC3M, Sep 2018 – Jul 2022
 
-Work experience
+Visiting positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Visiting Young Scholar, SOEP Visiting Young Scholar Program (VYSP), DIW Berlin
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* Predoc Research Assistant, IC3JM (Apr – Aug 2024): project "Dynamics and consequences of Transitional Justice at the local level" (PI: Francisco Villamil Fernández)
+* Predoc Research Assistant, Figuerola Institute of History and Social Sciences, UC3M (Jan – Apr 2024): project "Integration histories of peripheral Latin capitalisms" (PI: Antonio Tena Junguito)
+* Market Researcher and Research Analyst (Intern), Action Against Hunger Spain (Feb – Jul 2022)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Topics in Comparative Politics (*Temas de Política Comparada*), Double Degree in Law and Political Science, UC3M, 2025/2026: seminar sessions and two guest lectures
+
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Member of the organizing board, [PAPERSS](https://sites.google.com/view/paperss-seminarseries/home) (Pre- and Post-doctoral Empirical Research in Social Sciences) seminar series, UC3M, 2026/2027
+
+Talks
+======
+See [Talks]({{ site.baseurl }}/talks/) for conference presentations and invited seminars (EPSA, MESS, ECPR Joint Sessions, IMISCOE, EPSS, DeZIM, DIW Berlin, PAPERSS).
+
+Skills
+======
+* Methods: quantitative analysis, econometrics, mixed methods, data collection and triangulation, data visualization
+* Tools: R, Stata, EViews, LaTeX, OCR processing (ABBYY FineReader)
+
+Languages
+======
+* Arabic and Spanish (native); English and French (advanced)
